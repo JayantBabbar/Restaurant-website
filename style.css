@@ -228,7 +228,7 @@ nav .navbar a:hover{
     display: block;
     width: 100%;
     height:69px;
-    background-image:url("../icons/shadow.svg");
+    background-image:url("./icons/shadow.svg");
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
@@ -246,7 +246,7 @@ nav .navbar a:hover{
     display: block;
     width: 100%;
     height:69px;
-    background-image:url("../icons/shadow-sm.svg");
+    background-image:url("./icons/shadow-sm.svg");
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
@@ -259,7 +259,7 @@ nav .navbar a:hover{
 
 header.hero{
     height:600px;
-    background-image: url("../images/hero.png");
+    background-image: url("./images/hero.png");
     background-position: 0% 0%;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -367,7 +367,7 @@ section.top-products{
     display: block;
     height: 30px;
     width: 100%;
-    background-image: url("../icons/hr.svg");
+    background-image: url("./icons/hr.svg");
     background-repeat: no-repeat;
     background-position: center;
     position: absolute;
@@ -561,7 +561,7 @@ section.big-deal {
     background: linear-gradient(
         rgba(35,43,56,0.9),
         rgba(35,43,56,0.9)),
-        url(../images/food-table.jpg);
+        url(./images/food-table.jpg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
